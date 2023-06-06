@@ -1,0 +1,81 @@
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.exe
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.deps.json
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.json
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.dev.json
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.dll
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.pdb
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.AssemblyReference.cache
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfoInputs.cache
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfo.cs
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.CoreCompileInputs.cache
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.dll
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.pdb
+H:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.genruntimeconfig.cache
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.exe
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.deps.json
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.json
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.dev.json
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.dll
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.pdb
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.AssemblyReference.cache
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfoInputs.cache
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfo.cs
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.CoreCompileInputs.cache
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.dll
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.pdb
+J:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.genruntimeconfig.cache
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.exe
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.deps.json
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.json
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.dev.json
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.dll
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.pdb
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.AssemblyReference.cache
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfoInputs.cache
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfo.cs
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.CoreCompileInputs.cache
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.dll
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.pdb
+D:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.genruntimeconfig.cache
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.exe
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.deps.json
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.json
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.dev.json
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.dll
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.pdb
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.AssemblyReference.cache
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfoInputs.cache
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfo.cs
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.CoreCompileInputs.cache
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.dll
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.pdb
+G:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.genruntimeconfig.cache
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.exe
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.deps.json
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.json
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.dev.json
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.dll
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.pdb
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.AssemblyReference.cache
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.GeneratedMSBuildEditorConfig.editorconfig
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfoInputs.cache
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfo.cs
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.CoreCompileInputs.cache
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.dll
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.pdb
+E:\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.genruntimeconfig.cache
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.exe
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.deps.json
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.json
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.runtimeconfig.dev.json
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.dll
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\bin\Debug\netcoreapp3.1\Amigo invisible.pdb
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.AssemblyReference.cache
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfoInputs.cache
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.AssemblyInfo.cs
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.csproj.CoreCompileInputs.cache
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.dll
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.pdb
+C:\Users\marav\OneDrive\Escritorio\Pen drive\1-Fundamentos de la programación\Realizado por mí\Visual Studio\Amigo invisible\Amigo invisible\obj\Debug\netcoreapp3.1\Amigo invisible.genruntimeconfig.cache
